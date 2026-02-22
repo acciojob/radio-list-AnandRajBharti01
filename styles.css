@@ -1,1 +1,4 @@
 /*  your css code here. If applicable */
+div:nth-child(even){
+	color:red;
+}
